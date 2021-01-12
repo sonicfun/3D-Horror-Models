@@ -1,4 +1,4 @@
 # 3D-Horror-Models
 
 
-This is the model of one of a survival horror game that I am currently working on.
+This is a first person survival horror game prototype. It is made in UE4 and the Wendigo is being made in 3ds max
